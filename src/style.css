@@ -1,5 +1,5 @@
 body {
-  background-color: #54255d;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -26,8 +26,7 @@ button {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-a:active,
-:visited {
+a {
   color: #20948c;
 }
 
