@@ -1,0 +1,32 @@
+body {
+  background-color: #54255d;
+}
+
+h1 {
+  color: #25b2a8;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-size: 10px;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  background-color: #20948c;
+  color: #ffffff;
+  border: 1px solid #20948c;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:active,
+:visited {
+  color: #20948c;
+}
