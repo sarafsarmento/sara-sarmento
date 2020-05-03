@@ -48,3 +48,7 @@ a:hover {
   font-weight: bold;
   font-size: 15px;
 }
+
+.img {
+  margin-top: -10px;
+}
