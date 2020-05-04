@@ -40,6 +40,17 @@ a:hover {
   margin: 20px auto;
 }
 
+.menu2 {
+  background-color: transparent;
+  color: #3d3b3c;
+  border-color: #3d3b3c;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 20px auto;
+}
+
 .main-container {
   margin: 200px 50px auto;
 }
