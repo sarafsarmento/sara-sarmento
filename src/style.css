@@ -52,3 +52,14 @@ a:hover {
 .img {
   margin-top: -30px;
 }
+
+.site-title {
+  font-family: "DM Serif Text", serif;
+  font-size: 30px;
+}
+
+.site-title:hover {
+  color: #cea5ee;
+  text-decoration: none;
+  border-bottom: none;
+}
